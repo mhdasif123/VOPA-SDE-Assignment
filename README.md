@@ -25,11 +25,11 @@ This Django REST API allows teachers to assign lessons to individual students, s
 ## 🗂️ Project Structure
 
 vschool_api/
-├── assignments/ # App with models, views, serializers, urls
-├── vschool_api/ # Django settings and main config
-├── db.sqlite3 # Local test database
-├── manage.py
-└── README.md
+- ├── assignments/ # App with models, views, serializers, urls
+- ├── vschool_api/ # Django settings and main config
+- ├── db.sqlite3 # Local test database
+- ├── manage.py
+- └── README.md
 
 ## API Endpoints
 Method	      Endpoint	                                                 Description

@@ -42,18 +42,17 @@ Method	      Endpoint	                                                 Descripti
 
 ## 🖼️ Screenshots
 
-### Assign Lesson
-![Assign](screenshot/Assigment_Lesson.png)
+### ✅ 1. Assign Lesson
+![Assign Lesson](Screenshort/Assigment_Lesson.png)
 
-### Student Incomplete Assignments
-![Student](screenshots/student_assignments.png)
+### ✅ 2. Student Incomplete Assignments
+![Student Assignments](Screenshort/Student_Assignment.png)
 
-### Mark as Complete
-![Complete](screenshots/mark_complete.png)
+### ✅ 3. Mark as Completed
+![Mark Completed](Screenshort/Mark_Completed.png)
 
-### Teacher Assignment Status
-![Status](screenshots/teacher_status.png)
-
+### ✅ 4. Teacher Assignment Status
+![Teacher Assignment Status](Screenshort/Teacher_Assignment_Status.png)
 
 ---
 

@@ -13,6 +13,7 @@ This Django REST API allows teachers to assign lessons to individual students, s
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 - Python 3
@@ -38,6 +39,22 @@ Method	      Endpoint	                                                 Descripti
 - PUT	         /api/assignments/<assignment_id>/complete/	               - Mark an assignment as complete
 - GET	         /api/teachers/<teacher_id>/assignments/status/	           - View all assignments given by teacher
 
+
+## 🖼️ Screenshots
+
+### Assign Lesson
+![Assign](screenshots/Assigment_Lesson.png)
+
+### Student Incomplete Assignments
+![Student](screenshots/student_assignments.png)
+
+### Mark as Complete
+![Complete](screenshots/mark_complete.png)
+
+### Teacher Assignment Status
+![Status](screenshots/teacher_status.png)
+
+
 ---
 
 ## ⚙️ Installation & Setup
@@ -50,3 +67,5 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+

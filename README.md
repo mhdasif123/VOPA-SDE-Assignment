@@ -33,10 +33,10 @@ vschool_api/
 
 ## API Endpoints
 Method	      Endpoint	                                                 Description
-- POST	       /api/assignments/	                                         Assign a lesson to a student
-- GET	         /api/students/<student_id>/assignments/?status=incomplete	 Get student's incomplete lessons
-- PUT	         /api/assignments/<assignment_id>/complete/	                 Mark an assignment as complete
-- GET	         /api/teachers/<teacher_id>/assignments/status/	             View all assignments given by teacher
+- POST	       /api/assignments/	                                       - Assign a lesson to a student
+- GET	         /api/students/<student_id>/assignments/?status=incomplete - Get student's incomplete lessons
+- PUT	         /api/assignments/<assignment_id>/complete/	               - Mark an assignment as complete
+- GET	         /api/teachers/<teacher_id>/assignments/status/	           - View all assignments given by teacher
 
 ---
 

@@ -43,7 +43,7 @@ Method	      Endpoint	                                                 Descripti
 ## 🖼️ Screenshots
 
 ### Assign Lesson
-![Assign](screenshots/Assigment_Lesson.png)
+![Assign](screenshot/Assigment_Lesson.png)
 
 ### Student Incomplete Assignments
 ![Student](screenshots/student_assignments.png)
